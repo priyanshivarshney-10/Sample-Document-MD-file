@@ -11,6 +11,9 @@ This site is created using a simple Markdown file and GitHub Pages.
 - Markdown documentation
 - Static site creation
 - GitHub Pages hosting
+## Documentation
+
+- [Installation Guide](installation.md)
 
 ## Contact
 
